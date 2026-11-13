@@ -35,8 +35,6 @@ Chen, D. (2012). *Online Retail II* [Dataset]. UCI Machine Learning Repository. 
 │   └── churn_data.csv                  Output of notebook 2
 ├── models/
 │   └── churn_model.pkl                 Saved pipeline (preprocessing + model), output of notebook 3
-├── presentation/
-│   └── Customer_Churn_Prediction.pptx  Project presentation
 └── requirements.txt
 ```
 
