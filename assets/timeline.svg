@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" font-family="Inter, 'Segoe UI', Arial, sans-serif">
+  <rect x="0" y="0" width="1200" height="220" rx="18" fill="#FAFBFC"/>
+
+  <!-- Past 365 days: features -->
+  <rect x="40" y="62" width="760" height="78" rx="12" fill="#D9F2EE" stroke="#0F766E" stroke-width="2.5"/>
+  <text x="64" y="94" font-size="20" font-weight="700" fill="#0F766E">Past 365 days</text>
+  <text x="64" y="122" font-size="15" fill="#1F2937">What the customer did: orders, spending, products and timing  →  10 features</text>
+
+  <!-- Prediction date marker -->
+  <path d="M810 40 V160" stroke="#1E3A5F" stroke-width="3" stroke-dasharray="6 6"/>
+  <circle cx="810" cy="101" r="10" fill="#1E3A5F"/>
+  <text x="810" y="28" text-anchor="middle" font-size="15" font-weight="700" fill="#1E3A5F">Prediction date</text>
+
+  <!-- Next 90 days: target -->
+  <rect x="820" y="62" width="340" height="78" rx="12" fill="#FDF0D5" stroke="#B45309" stroke-width="2.5"/>
+  <text x="844" y="94" font-size="20" font-weight="700" fill="#B45309">Next 90 days</text>
+  <text x="844" y="122" font-size="15" fill="#1F2937">No purchase  →  Churned = 1</text>
+
+  <!-- Example dates -->
+  <path d="M40 176 H1160" stroke="#CBD5E1" stroke-width="2"/>
+  <circle cx="40" cy="176" r="5" fill="#94A3B8"/>
+  <circle cx="810" cy="176" r="5" fill="#1E3A5F"/>
+  <circle cx="1160" cy="176" r="5" fill="#94A3B8"/>
+  <text x="40" y="204" font-size="14" fill="#475569">1 Dec 2009</text>
+  <text x="810" y="204" text-anchor="middle" font-size="14" font-weight="700" fill="#1E3A5F">1 Dec 2010</text>
+  <text x="1160" y="204" text-anchor="end" font-size="14" fill="#475569">28 Feb 2011</text>
+  <text x="425" y="204" text-anchor="middle" font-size="13" fill="#64748B">Example snapshot. The same is repeated on the 1st of every month, December 2010 to September 2011.</text>
+</svg>

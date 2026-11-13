@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
