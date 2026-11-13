@@ -2,7 +2,7 @@
 
 Predict which customers of a UK online gift wholesaler will **stop buying in the next 90 days**, so the sales team can contact them before they leave.
 
-**Live app:** _add the Streamlit link after deployment_
+**Live app:** https://churn-uci-prediction.streamlit.app/
 
 Final project for the Epsilon AI Machine Learning course.
 
